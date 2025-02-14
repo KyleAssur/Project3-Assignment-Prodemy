@@ -8,7 +8,7 @@
   -PULENG VERONICA NAKEDI<br/>
   -PHILANI SHANGE<br/>
 
-<ins> # Respondsiblites: </ins>
+<ins> # Respondsiblites: </ins><br/>
 Term One:<br/>
 <br/>
 Term Two:<br/>
