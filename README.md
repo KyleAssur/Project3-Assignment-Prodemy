@@ -9,11 +9,11 @@
   -PHILANI SHANGE<br/>
 
 ## <ins>Respondsiblites:</ins><br/>
-Term One: T1 (10%): Term 1 deliverables (individual and group)<br/> 
+<ins>Term One: T1 (10%): Term 1 deliverables (individual and group)</ins><br/> 
 <br/>
-Term Two: T2 (20%): Term 2 individual deliverable<br/>
+<ins>Term Two: T2 (20%): Term 2 individual deliverable</ins><br/>
 <br/>
-Term Three: T3 (30%): Term 3 individual deliverable<br/>
+<ins>Term Three: T3 (30%): Term 3 individual deliverable</ins><br/>
 <br/>
-Term Four: T4 (40%): Term 4 deliverables (individual and group)<br/>
+<ins>Term Four: T4 (40%): Term 4 deliverables (individual and group)</ins><br/>
 <br/>
