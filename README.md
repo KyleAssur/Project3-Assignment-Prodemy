@@ -9,7 +9,11 @@
   -PHILANI SHANGE<br/>
 
 <ins> # Respondsiblites: </ins>
-Term One:
-Term Two:
-Term Three:
-Term Four:
+Term One:<br/>
+<br/>
+Term Two:<br/>
+<br/>
+Term Three:<br/>
+<br/>
+Term Four:<br/>
+<br/>
