@@ -16,7 +16,7 @@
 -Task Allocated<br/>
 -Group Organization<br/>
 -Problem Definition<br/>
--Project Scope<br/>
+-Project Scope - KYLE ANDRE ASSUR<br/>
 </br>
 </br>
 <ins>Term Two: T2 (20%): Term 2 individual deliverable</ins><br/>
