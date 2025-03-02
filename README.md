@@ -12,10 +12,10 @@
 <ins>Term One: T1 (10%): Term 1 deliverables (individual and group) (28 March 2025)</ins><br/> 
 <br/>
 ### <ins>Group Submission</ins>
--Communication methods<br/>
--Task Allocated<br/>
--Group Organization<br/>
--Problem Definition<br/>
+-Communication methods - JUSTIN ANGELO KAROLES<br/>
+-Task Allocated - CAITLIN SHAN MALAN<br/>
+-Group Organization - GABRIEL KIEWIETZ<br/>
+-Problem Definition - GABRIEL KIEWIETZ & <br/>
 -Project Scope - KYLE ANDRE ASSUR<br/>
 </br>
 </br>
