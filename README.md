@@ -1,12 +1,12 @@
 # <ins>Project3-Assignment </ins>
 
 ## <ins>Group Member:</ins><br/>
-  -KYLE ANDRE ASSUR - Techinal Lead<br/>
+  -KYLE ANDRE ASSUR - Technical  Lead / Scribe<br/>
   -JUSTIN ANGELO KAROLES - Mediator<br/>
-  -GABRIEL KIEWIETZ - Techinal Lead<br/>
+  -GABRIEL KIEWIETZ - Technical  Lead<br/>
   -CAITLIN SHAN MALAN - Project Leader<br/>
   -PULENG VERONICA NAKEDI - Chairperson<br/>
-  -PHILANI SHANGE - Techinal Lead<br/>
+  -PHILANI SHANGE - Technical  Lead<br/>
 
 ## <ins>Respondsiblites:</ins><br/>
 <ins>Term One: T1 (10%): Term 1 deliverables (individual and group) (28 March 2025)</ins><br/> 
