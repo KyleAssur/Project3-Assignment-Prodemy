@@ -12,36 +12,35 @@ import org.springframework.scheduling.config.Task;
 import org.springframework.security.access.prepost.*;
 import org.springframework.web.bind.annotation.*;
 
-import javax.persistence.*;
-import java.time.LocalDate;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import java.time.LocalDateTime;
 import java.util.*;
 
 @Entity
-@Table(name = "tasks")
-public class Task {
+@Table(name = "video_lectures")
+public class VideoLecture {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long task_id;
+    private Long lecture_id;
 
     @ManyToOne
-    @JoinColumn(name = "user_id", nullable = false)
-    private User user;
+    @JoinColumn(name = "course_id", nullable = false)
+    private Course course;
 
     @Column(nullable = false)
     private String title;
 
+    @Column(name = "video_url", nullable = false)
+    private String videoUrl;
+
     @Column(columnDefinition = "TEXT")
     private String description;
 
-    @Enumerated(EnumType.STRING)
-    private Priority priority;  // Enum: HIGH, MEDIUM, LOW
+    @Column(name = "duration_minutes")
+    private int durationMinutes;
 
-    @Enumerated(EnumType.STRING)
-    private Status status;      // Enum: TODO, IN_PROGRESS, DONE
-
-    private LocalDate due_date;
-
-    @CreationTimestamp
-    private LocalDateTime created_at;
+    // Getters, setters, constructors
 }

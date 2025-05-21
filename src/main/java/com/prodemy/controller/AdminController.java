@@ -11,13 +11,11 @@ import java.util.*;
 
 
 @RestController
-@RequestMapping("/api/tasks")
-public class TaskController {
-    @Autowired
-    private TaskService taskService;
-
-    @GetMapping("/user/{userId}")
-    public List<Task> getUserTasks(@PathVariable Long userId) {
-        return taskService.getTasksByUserAndStatus(userId, Status.TODO);
+@RequestMapping("/api/admin")
+@PreAuthorize("hasRole('ADMIN')")  // Spring Security annotation
+public class AdminController {
+    @PostMapping("/ban-user/{userId}")
+    public ResponseEntity<?> banUser(@PathVariable Long userId) {
+        // Logic to ban a user
     }
 }
